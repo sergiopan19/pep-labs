@@ -3,7 +3,7 @@
 :repo_path: "/workspace/revpro-cli/pep-labs"
 :previous_lab: 
 :current_lab: 
-:origin_remote: https://github.com/sergiopan19/pep-labs.git
+:origin_remote: https://github.com/sergiopan19/pep-labs
 :repo_clone_folder: "/workspace/revpro-cli/pep-labs"
 :github_username: sergiopan19
 :git_name: sergiopan19
@@ -33,8 +33,8 @@
     checkoutLocation: pep-gitpod-workspace
     upstreamRemoteURI: https://github.com/revature-curriculum/pep-gitpod-workspace.git
   :gitpod_workspace:
-    :workspace_id: sergiopan19-pepgitpodwo-t9w1c4r7zk0
-    :workspace_url: https://sergiopan19-pepgitpodwo-t9w1c4r7zk0.ws-eu79.gitpod.io
+    :workspace_id: sergiopan19-pepgitpodwo-kb3om5bf705
+    :workspace_url: https://sergiopan19-pepgitpodwo-kb3om5bf705.ws-us85.gitpod.io
     :repo_root: "/workspace/pep-gitpod-workspace"
     :git_user_email: sp19p@fsu.edu
     :git_user_name: sergiopan19
