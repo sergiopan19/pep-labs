@@ -1,3 +1,5 @@
+import static org.junit.Assert.assertTrue;
+
 public class ArraySum {
     /**
      * This method should return the sum of all ints in an array - this is a very useful trick to know!
@@ -7,7 +9,11 @@ public class ArraySum {
      * @return the sum of all values in arr.
      */
     public int sum(int[] arr){
+        int sum = 0;
 
-        return 0;
+        for(int i: arr)
+            sum += i;
+
+        return sum;
     }
 }
